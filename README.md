@@ -24,13 +24,12 @@ npm install
 Open config.json and replace the placeholders with your actual values:
 
 {
-    "rpcUrl": "YOUR_RPC_URL_HERE",
-    "chainId": "YOUR_CHAIN_ID_HERE",
+    "rpcUrl": "YOUR_RPC_URL_HERE",   // e.g., "https://rpc.nexus.xyz/http"
+    "chainId": "YOUR_CHAIN_ID_HERE", // e.g., "392"
     "gasLimit": 5000000,
-    "tokenSymbol": "YOUR_TOKEN_SYMBOL_HERE",
+    "tokenSymbol": "YOUR_TOKEN_SYMBOL_HERE",  // e.g., "NEX"
     "txPerWallet": 20
 }
-
 
 4. Add your private key
 
