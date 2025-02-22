@@ -15,5 +15,9 @@
     "fs": "^0.0.1-security",
     "readline-sync": "^1.4.10",
     "solc": "^0.8.28"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.18"
   }
 }
